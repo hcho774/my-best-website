@@ -1,6 +1,10 @@
 body {
-    background: blue;
+    background: #9ECCA4;
     font-family: 'Courier New', Courier, monospace;
     font-size: medium;
 }
 
+#picture {
+    width: 200px;
+    height: 200px;
+}
